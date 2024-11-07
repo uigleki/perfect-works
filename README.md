@@ -52,18 +52,40 @@
 - Poppin'Party - Returns
 - SOUNDORBIS - LIFE
 - Xad - Birds
-- 初音未来 - 夏の終わりの彼女は
 - 初音未来 - てすてすブロードキャスト.proj
+- 初音未来 - 夏の終わりの彼女は
 - 甘茶の音楽工房 - 赤い风船とメリーゴーランド
+- 乐正绫 - 同归世界线
 - 清漪 - 但叹清风错
 - 森永真由美 - Mermaid girl (Extended RRver.)
 - 药师丸悦子 - アンノウン・ワールドマップ
-- 乐正绫 - 同归世界线
 
 <details>
 <summary>次佳收藏</summary>
 
+- Approaching Nirvana - You
+- azusa - 真夏のフォトグラフ
+- CMJ - 所念皆星河
+- D'elf - Code Answer
+- DJ OKAWARI - Flower Dance
+- EastNewSound - Relate
+- EGOIST - The Everlasting Guilty Crown
+- Lily - テロリスト
+- MoreanP - 忆夏思乡
+- MYTH & ROID - STYX HELIX
+- niki、Lily - ジッタードール
+- Pianoboy 高至豪 - The Truth That You Leave
+- SawanoHiroyuki[nZk]、瑞葵 - Avid
+- Shirfine - Illusionary Daytime
 - supercell - My Dearest
+- Valentin - A Little Story
+- あやりす - 愛を誓いしヒメ飾り
+- 蝶々 P、GUMI - 心做し
+- 高橋李依 - 気まぐれロマンティック
+- 流星 P、初音未来 - 胧月
+- 琉芸 Miruku、缨缨 Ei - 花月夜【中文版】
+- 伊藤加奈子 - アマデウス
+- 竹達彩奈、巽悠衣子 - バランス KISS
 
 </details>
 
