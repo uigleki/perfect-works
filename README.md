@@ -1,8 +1,6 @@
 # Perfect Works
 
-这里收录了我认为的"接近完美"[^1]的作品。
-
-[^1]: [筛选标准](criteria/README.md)
+这里收录了我认为的"[接近完美](criteria/README.md)"的作品。
 
 ## 作品分类
 
