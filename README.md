@@ -56,9 +56,9 @@
 - himmel - 远枫
 - iolli - Through Mist and Fog
 - やくしまるえつこ - Unknown World Map
+- 甘茶の音楽工房 - 赤い风船とメリーゴーランド
 - 乐正绫 - 同归世界线
 - 清漪 - 但叹清风错
-- 甘茶の音楽工房 - 赤い风船とメリーゴーランド
 
 <details>
 <summary>次佳收藏</summary>
@@ -82,10 +82,10 @@
 - niki feat. Lily - Jitter doll
 - あやりす - 愛を誓いしヒメ飾り
 - いとうかなこ - アマデウス
-- 琉芸 Miruku & 缨缨 Ei - 花月夜 (中文版)
-- 竹達彩奈 & 巽悠衣子 - バランス KISS
 - 蝶々 P feat. GUMI - 心做し
 - 高橋李依 - 気まぐれロマンティック
+- 琉芸 Miruku & 缨缨 Ei - 花月夜 (中文版)
+- 竹達彩奈 & 巽悠衣子 - バランス KISS
 
 </details>
 

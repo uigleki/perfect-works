@@ -38,24 +38,24 @@
 - fripSide - LEVEL5-judgelight-
 - fripSide - only my railgun
 - いとうかなこ - スカイクラッドの観測者
-- 上村 叶恵 - 雨霧
-- 亜咲花 - Open your eyes
-- 削除 - Lost Memory
-- 南征北战 NZBZ - 骄傲的少年
-- 孙燕姿 - 一起走到
-- 张妙格 - 我期待的不是雪 (Live 合唱版)
-- 星尘 & COP - 尘降
-- 朝香智子 - post-script
-- 李如意 - 明天会更好
-- 水瀬いのり & 久保ユリカ - 動く、動く
-- 汐音社 & 初音ミク - 大荒碑
-- 洛天依 & 纯白 P - 中华缘木娘 (Album Version)
-- 玉置成実 - Reason
-- 程响 - 世界这么大还是遇见你
-- 胡歌 - 一吻天荒
 - 蔡健雅 - 红色高跟鞋
-- 闻人听書\_ - 虞兮叹
+- 朝香智子 - post-script
+- 程响 - 世界这么大还是遇见你
 - 高橋洋子 - 残酷な天使のテーゼ (Directors Edit Version)
+- 胡歌 - 一吻天荒
+- 李如意 - 明天会更好
+- 洛天依 & 纯白 P - 中华缘木娘 (Album Version)
+- 南征北战 NZBZ - 骄傲的少年
+- 上村 叶恵 - 雨霧
+- 水瀬いのり & 久保ユリカ - 動く、動く
+- 孙燕姿 - 一起走到
+- 闻人听書\_ - 虞兮叹
+- 汐音社 & 初音ミク - 大荒碑
+- 星尘 & COP - 尘降
+- 削除 - Lost Memory
+- 亜咲花 - Open your eyes
+- 玉置成実 - Reason
+- 张妙格 - 我期待的不是雪 (Live 合唱版)
 
 ---
 
@@ -93,8 +93,8 @@
 - H-el-ical - Altern-ate-
 - Heidi Montag - I'll Do It
 - Hello Happy World! - Dragon Night
-- JUSF 周存 - 心跳同步的时光 (Memory Ver.)
 - JUSF 周存 - 潘多拉パンドーラー
+- JUSF 周存 - 心跳同步的时光 (Memory Ver.)
 - Kirara Magic & Shion Lee - Aurora VIP
 - Krbread - Once More
 - Maroon 5 & Wiz Khalifa - Payphone
@@ -104,8 +104,8 @@
 - Nick Strand & Hoaprox & Mio - With You (Ngẫu Hứng)
 - Olly Murs - That Girl
 - Orangestar - DAYBREAK FRONTLINE
-- PastelPalettes - きゅ～まい＊flower
 - PastelPalettes - ハッピーシンセサイザ
+- PastelPalettes - きゅ～まい＊flower
 - PoppinParty - ティアドロップス
 - Rameses B & Anna Yvette - Neon Rainbow
 - Raven & Kreyn & Nino Lucarelli & RudeLies - This Far (RudeLies Remix)
@@ -140,57 +140,57 @@
 - アトラスサウンドチーム - 祭囃子・万象ノ真理ノ調
 - エリオをかまってちゃん - Os-宇宙人
 - ナノ - Nevereverland
-- 七森中 ☆ ごらく部 - ゆりゆららららゆるゆり大事件
-- 久石让 - Summer (PIANO VER.)
-- 乐正绫 & 洛天依 & 玖玲 - 玉人歌
-- 乐正绫 & 洛天依 - 亡国祸水《四•国殇》
-- 买辣椒也用券 - 起风了 (旧版)
-- 光良 - 童话
-- 初音未来 & Anamanaguchi - Miku
-- 前田玲奈 - アメフラシの歌～ Beautiful Rain ～
-- 千坂 - At The Edge
-- 千坂 - Fragments
-- 原子邦妮 - 在名为未来的波浪里
-- 呦猫 UNEKO - 梦回还
-- 呦猫 UNEKO - 轮回
-- 喵九 & 乐正绫 - 樱花绽放时
-- 天游 - Dreamrainer
-- 小峰理纱 - Resuscitated Hope
-- 山下智久 - Loveless
-- 平行四界 Quadimension - Seattle 物语 II
+- 阿良良木健 & 洛天依 - 绝体绝命
+- 阿良良木健 & 洛天依 - CONNECT
 - 彩音 - いつもこの場所で
+- 蔡健雅 - Letting Go
 - 彳亍 P & 洛天依 - 马步谣
-- 括号君 - 盲
+- 初音未来 & Anamanaguchi - Miku
+- 钉宫理惠 & 堀江由衣 & 喜多村英梨 - プレパレード
+- 光良 - 童话
+- 海鲜面 - 万神纪
+- 花束 P feat. 初音ミク - さよならのかわりに、花束を (tearsMIX)
 - 接个吻，开一枪 & 沈以诚 & 薛黛霏 - 失眠飞行
-- 斎藤千和 - staple stable
-- 早稻叽 - STAY (女声版)
-- 星尘 - 彼方
-- 星尘 - 曙光
-- 星尘 - 海棠仙 (Album Version)
-- 洛天依 & Soda 纯白 - 中华铄金娘
-- 洛天依 & 乐正绫 & Soda 纯白 & litterzy - 阳山绝
-- 洛天依 & 乐正绫 - 清明上河图
-- 洛天依 & 言和 & 無藏 - 灰烬
-- 洛天依 - Brightness
-- 洛天依 - Hello & Bye , Days
-- 洛天依 - I LOVE U
-- 洛天依 - 一梦千朝
-- 洛天依 - 世末积雨云
-- 洛天依 - 仙居谣
+- 久石让 - Summer (PIANO VER.)
+- 玖玲 & 初音ミク - Plot\_ 0
+- 括号君 - 盲
+- 乐正绫 & 洛天依 - 亡国祸水《四•国殇》
+- 乐正绫 & 洛天依 & 玖玲 - 玉人歌
 - 洛天依 - 八辈子
 - 洛天依 - 末日 DISCO
 - 洛天依 - 权御天下
-- 海鲜面 - 万神纪
-- 澤野弘之 & 小林未郁 - βios
-- 玖玲 & 初音ミク - Plot\_ 0
-- 皮卡丘多多 - 百花香
-- 花束 P feat. 初音ミク - さよならのかわりに、花束を (tearsMIX)
-- 葉月ゆら - HAMELN
-- 蔡健雅 - Letting Go
-- 言和 - 梦之雨
-- 逆时针向 - Asphyxia
-- 钉宫理惠 & 堀江由衣 & 喜多村英梨 - プレパレード
-- 银临 & Aki 阿杰 - 牵丝戏
-- 阿良良木健 & 洛天依 - CONNECT
-- 阿良良木健 & 洛天依 - 绝体绝命
+- 洛天依 - 世末积雨云
+- 洛天依 - 仙居谣
+- 洛天依 - 一梦千朝
+- 洛天依 - Brightness
+- 洛天依 - Hello & Bye , Days
+- 洛天依 - I LOVE U
+- 洛天依 & 乐正绫 - 清明上河图
+- 洛天依 & 乐正绫 & Soda 纯白 & litterzy - 阳山绝
+- 洛天依 & 言和 & 無藏 - 灰烬
+- 洛天依 & Soda 纯白 - 中华铄金娘
 - 麻枝准 & やなぎなぎ - 終わりの世界から
+- 买辣椒也用券 - 起风了 (旧版)
+- 喵九 & 乐正绫 - 樱花绽放时
+- 逆时针向 - Asphyxia
+- 皮卡丘多多 - 百花香
+- 平行四界 Quadimension - Seattle 物语 II
+- 七森中 ☆ ごらく部 - ゆりゆららららゆるゆり大事件
+- 千坂 - At The Edge
+- 千坂 - Fragments
+- 前田玲奈 - アメフラシの歌～ Beautiful Rain ～
+- 山下智久 - Loveless
+- 天游 - Dreamrainer
+- 小峰理纱 - Resuscitated Hope
+- 星尘 - 彼方
+- 星尘 - 海棠仙 (Album Version)
+- 星尘 - 曙光
+- 言和 - 梦之雨
+- 葉月ゆら - HAMELN
+- 银临 & Aki 阿杰 - 牵丝戏
+- 呦猫 UNEKO - 轮回
+- 呦猫 UNEKO - 梦回还
+- 原子邦妮 - 在名为未来的波浪里
+- 早稻叽 - STAY (女声版)
+- 澤野弘之 & 小林未郁 - βios
+- 斎藤千和 - staple stable
