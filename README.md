@@ -41,51 +41,51 @@
 
 ### 音乐
 
-- Capchii、凛々咲 - Letters from Heaven
-- daniwellP - UZ
+- Capchii & 凛々咲 - Letters from Heaven
+- Cream puff - Mermaid girl
 - D'elf - Synchronicity
-- himmel - 远枫
-- iolli - Through Mist and Fog
 - Ken Arai - NEXT TO YOU
 - Mili - Nine Point Eight
 - MoreanP - Feeling The Rain
 - Poppin'Party - Returns
 - SOUNDORBIS - LIFE
 - Xad - Birds
-- 初音未来 - てすてすブロードキャスト.proj
-- 初音未来 - 夏の終わりの彼女は
-- 甘茶の音楽工房 - 赤い风船とメリーゴーランド
+- daniwellP - UZ
+- daniwellP - てすてすブロードキャスト.proj
+- daniwellP - 夏の終わりの彼女は
+- himmel - 远枫
+- iolli - Through Mist and Fog
+- やくしまるえつこ - Unknown World Map
 - 乐正绫 - 同归世界线
 - 清漪 - 但叹清风错
-- 森永真由美 - Mermaid girl (Extended RRver.)
-- 药师丸悦子 - アンノウン・ワールドマップ
+- 甘茶の音楽工房 - 赤い风船とメリーゴーランド
 
 <details>
 <summary>次佳收藏</summary>
 
 - Approaching Nirvana - You
-- azusa - 真夏のフォトグラフ
 - CMJ - 所念皆星河
-- D'elf - Code Answer
-- DJ OKAWARI - Flower Dance
-- EastNewSound - Relate
+- D'elf - Code\_ Answer
+- Dj Okawari - Flower Dance
 - EGOIST - The Everlasting Guilty Crown
+- EastNewSound - relate
 - Lily - テロリスト
-- MoreanP - 忆夏思乡
 - MYTH & ROID - STYX HELIX
-- niki、Lily - ジッタードール
-- Pianoboy 高至豪 - The Truth That You Leave
-- SawanoHiroyuki[nZk]、瑞葵 - Avid
+- MoreanP - 忆夏思乡
+- Pianoboy 高至豪 - The truth that you leave
+- SawanoHiroyuki[nZk] feat. mizuki - Avid
 - Shirfine - Illusionary Daytime
-- supercell - My Dearest
+- Supercell - My Dearest
 - Valentin - A Little Story
+- azusa - 真夏のフォトグラフ
+- minato & 初音ミク - 朧月
+- niki feat. Lily - Jitter doll
 - あやりす - 愛を誓いしヒメ飾り
-- 蝶々 P、GUMI - 心做し
+- いとうかなこ - アマデウス
+- 琉芸 Miruku & 缨缨 Ei - 花月夜 (中文版)
+- 竹達彩奈 & 巽悠衣子 - バランス KISS
+- 蝶々 P feat. GUMI - 心做し
 - 高橋李依 - 気まぐれロマンティック
-- 流星 P、初音未来 - 胧月
-- 琉芸 Miruku、缨缨 Ei - 花月夜【中文版】
-- 伊藤加奈子 - アマデウス
-- 竹達彩奈、巽悠衣子 - バランス KISS
 
 </details>
 
