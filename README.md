@@ -65,11 +65,11 @@
 
 - Approaching Nirvana - You
 - CMJ - 所念皆星河
-- D'elf - Code\_ Answer
+- D'elf - Code： Answer
 - Dj Okawari - Flower Dance
 - EGOIST - The Everlasting Guilty Crown
 - EastNewSound - relate
-- Lily - テロリスト
+- Lily - Terrorist
 - MYTH & ROID - STYX HELIX
 - MoreanP - 忆夏思乡
 - Pianoboy 高至豪 - The truth that you leave
@@ -83,7 +83,7 @@
 - あやりす - 愛を誓いしヒメ飾り
 - いとうかなこ - アマデウス
 - 琉芸 Miruku & 缨缨 Ei - 花月夜 (中文版)
-- 竹達彩奈 & 巽悠衣子 - バランス KISS
+- 竹達彩奈 & 巽悠衣子 - Balance KISS
 - 蝶々 P feat. GUMI - 心做し
 - 高橋李依 - 気まぐれロマンティック
 

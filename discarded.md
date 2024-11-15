@@ -19,7 +19,7 @@
 - Candy_Wind - 青空
 - ClariS - ヒトリゴト
 - DAISHI DANCE feat. Cécile Corbel - Take Me Hands
-- DECO_27 & 初音ミク - 初嵐
+- DECO＊27 & 初音ミク - 初嵐
 - Daishi Dance - MUSIC LIFE IN FOREST
 - Gala - 追梦赤子心
 - Goose house - 光るなら
@@ -55,63 +55,63 @@
 - 胡歌 - 一吻天荒
 - 蔡健雅 - 红色高跟鞋
 - 闻人听書\_ - 虞兮叹
-- 高橋洋子 - 残酷な天使のテーゼ (Directors Edit Version)
 
 ---
 
 - 40mP feat. 初音ミク - からくりピエロ
 - Adam Christopher - So Far Away (Acoustic)
-- Aimer - LAST STARDUST
+- Aimer - Last Stardust
 - AniFace - Where are you
 - AniFace - 夜、萤火虫和你
-- Aosaki & Himawari - 惊梦
-- BEAUZ & JVNA - Crazy
-- BEAUZ - Outerspace
+- Aosaki & himawari - 惊梦
 - BaseSon - 夢笑顔
-- Bemax - Sweet little Bumble Bee
+- BeMax - Sweet Little Bumble Bee
+- Beauz & Dallas - Outerspace
+- Beauz & JVNA - Crazy
 - CHiCO with HoneyWorks - アイのシナリオ
 - COP & 洛天依 - 凉雨
 - Candee! - Ein Kleines Lied
 - Capo Productions - Journey
-- Cartoon & Futuristik & Mikk Mäe - C U Again
 - Ceui - 今、歩き出す君へ
 - Chester Young & Castion - PYRO
 - ClariS - With You
 - ClariS - 桜咲く
 - Coopex & Donovan's Playground & Lujavo & Britt Lari - Stereo Love
 - Cymophane - Tassel
+- DJ Project feat. Giulia - Nu (video version)
 - Dec 顾令 & 乐正绫 & 踏云社 - 闲云志
-- Dion Timmer & The Arcturians - The Best Of Me
+- Dion Timmer feat. The Arcturians - The Best Of Me
 - Dreamcatcher - YOU AND I
 - Dxrk ダーク - RAVE
 - F.I.R.飞儿乐团 - 千年之恋
 - Fall Out Boy - The Last Of The Real Ones
-- FrogMonster - Remember Our Summer
 - FrogMonster - Remember Our Winter
-- Giulia & DJ Project - Nu
-- Glitter☆Green - Dont be afraid!
-- H-el-ical - Altern-ate-
+- Frogmonster - Remember Our Summer
+- Glitter＊Green - Don't be afraid!
+- H-el-ical／／ - Altern-ate-
+- HHMR, Krbread & Sofuu - Once More
 - Heidi Montag - I'll Do It
-- Hello Happy World! - Dragon Night
+- Hello, Happy World! - Dragon Night (Cover)
 - JUSF 周存 - 心跳同步的时光 (Memory Ver.)
 - JUSF 周存 - 潘多拉パンドーラー
-- Kirara Magic & Shion Lee - Aurora VIP
-- Krbread - Once More
-- Maroon 5 & Wiz Khalifa - Payphone
+- Kirara Magic - Aurora Vip
+- Maroon 5 - Payphone [Clean]
 - Miani - Tu vivi nellaria (Remix Gigi DAgastino Minions Version)
-- Mono Inc. - Children of the Dark
+- Mikk Mäe, Cartoon, Jéja & Futuristik - C U Again
+- Mono Inc. feat. Tilo Wolff, Joachim Witt & Chris Harms - Children of the Dark
 - Neru & 镜音铃 & 镜音レン & z5 - 病名は爱だった
-- Nick Strand & Hoaprox & Mio - With You (Ngẫu Hứng)
+- Nick Strand, Hoaprox & Mio - With You (Ngẫu Hứng)
 - Olly Murs - That Girl
-- Orangestar - DAYBREAK FRONTLINE
-- PastelPalettes - きゅ～まい＊flower
-- PastelPalettes - ハッピーシンセサイザ
-- PoppinParty - ティアドロップス
+- Orangestar - Daybreak Frontline
+- Pastel＊Palettes - Happy Synthesizer (Cover)
+- Pastel＊Palettes - きゅ～まい＊flower
+- Poppin'Party - Tear Drops
 - Rameses B & Anna Yvette - Neon Rainbow
-- Raven & Kreyn & Nino Lucarelli & RudeLies - This Far (RudeLies Remix)
+- Raven & Kreyn & Nino Lucarelli - This Far (RudeLies Remix)
 - Rigel Theatre - Grad Erlija -Retrospektiva-
-- Robin Hustin & TobiMorrow & Jex - Light It Up
+- Robin Hustin, Jex & Tobimorrow - Light It Up
 - SiM - KiLLiNG ME
+- Supercell - 君の知らない物語
 - TAIGA - Middle Of The Night (Original Mix)
 - TRASH - 终究还是因为爱
 - Taylor Swift - Love Story
@@ -119,16 +119,16 @@
 - The Chainsmokers & Coldplay - Something Just Like This
 - The Little Singers of Tokyo - エラモレセラモル
 - Triplo Max & Vanessa Campagna - My Soul Is Your Soul
-- Tungevaag & Raaban & Richard Smitt - All For Love
-- Vicetone & Cozi Zuehlsdorff - Nevada
-- Vicetone & Meron Ryan - Walk Thru Fire
+- Tungevaag & Raaban feat. Richard Smitt - All For Love
+- Vicetone - Walk Thru Fire
+- Vicetone feat. Cozi Zuehlsdorff - Nevada
 - cosMo@暴走 P & 初音未来 - 初音ミクの消失
 - doriko & 初音未来 - 茜コントラスト
 - doriko - ロミオとシンデレラ
 - doriko - 歌に形はないけれど
 - effe - Corridor of reminiscence
 - himmel - 未梦
-- supercell - 君の知らない物語
+- nano - Nevereverland
 - tsunenori a.k.a Marukabis & Kotomi & T-NOX - さよならさよなら
 - yuiko - ASPIRE
 - いとうかなこ - Another Heaven
@@ -139,7 +139,6 @@
 - めありー - DAYBREAK FRONTLINE
 - アトラスサウンドチーム - 祭囃子・万象ノ真理ノ調
 - エリオをかまってちゃん - Os-宇宙人
-- ナノ - Nevereverland
 - 七森中 ☆ ごらく部 - ゆりゆららららゆるゆり大事件
 - 久石让 - Summer (PIANO VER.)
 - 乐正绫 & 洛天依 & 玖玲 - 玉人歌
@@ -161,7 +160,7 @@
 - 彩音 - いつもこの場所で
 - 彳亍 P & 洛天依 - 马步谣
 - 括号君 - 盲
-- 接个吻，开一枪 & 沈以诚 & 薛黛霏 - 失眠飞行
+- 接个吻，开一枪, 沈以誠 & 薛黛霏 - 失眠飞行
 - 斎藤千和 - staple stable
 - 早稻叽 - STAY (女声版)
 - 星尘 - 彼方
@@ -182,7 +181,7 @@
 - 洛天依 - 权御天下
 - 海鲜面 - 万神纪
 - 澤野弘之 & 小林未郁 - βios
-- 玖玲 & 初音ミク - Plot\_ 0
+- 玖玲 & 初音ミク - Plot： 0
 - 皮卡丘多多 - 百花香
 - 花束 P feat. 初音ミク - さよならのかわりに、花束を (tearsMIX)
 - 葉月ゆら - HAMELN
@@ -193,4 +192,5 @@
 - 银临 & Aki 阿杰 - 牵丝戏
 - 阿良良木健 & 洛天依 - CONNECT
 - 阿良良木健 & 洛天依 - 绝体绝命
+- 高橋洋子 - 残酷な天使のテーゼ (Directors Edit Version)
 - 麻枝准 & やなぎなぎ - 終わりの世界から
