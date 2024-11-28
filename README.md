@@ -38,6 +38,7 @@
 1. Astlibra Revision
 1. 带我去地下城吧
 1. Deemo
+1. osu!
 
 ### 音乐
 
