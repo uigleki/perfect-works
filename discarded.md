@@ -9,6 +9,7 @@
 1. Guilty Crown
 1. Kill Me Baby
 1. BanG Dream! It's MyGO!!!!!
+1. Girls und Panzer
 1. 未確認で進行形
 
 ### 游戏
