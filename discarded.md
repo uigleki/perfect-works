@@ -17,11 +17,13 @@
 1. Inotia 4
 1. アリスの精神裁判
 1. 四ツ目神
+1. Black Desert Mobile
 1. Titanfall 2
 1. Hellblade: Senua's Sacrifice
 1. GRIS
 1. 彼女と彼女と私の七日
 1. 蒼の彼方のフォーリズム
+1. Guardian Tales
 
 ### 音乐
 
