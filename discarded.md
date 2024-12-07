@@ -6,24 +6,26 @@
 
 ### 动画
 
-1. Guilty Crown
-1. Kill Me Baby
-1. BanG Dream! It's MyGO!!!!!
-1. Girls und Panzer
-1. 未確認で進行形
+- BanG Dream! It's MyGO!!!!!
+- Girls und Panzer
+- Guilty Crown
+- Kill Me Baby
+- 未確認で進行形
 
 ### 游戏
 
-1. Inotia 4
-1. アリスの精神裁判
-1. 四ツ目神
-1. Black Desert Mobile
-1. Titanfall 2
-1. Hellblade: Senua's Sacrifice
-1. GRIS
-1. 彼女と彼女と私の七日
-1. 蒼の彼方のフォーリズム
-1. Guardian Tales
+- Black Desert Mobile
+- Deemo
+- GRIS
+- Guardian Tales
+- Hellblade: Senua's Sacrifice
+- Inotia 4
+- Titanfall 2
+- osu!
+- アリスの精神裁判
+- 四ツ目神
+- 彼女と彼女と私の七日
+- 蒼の彼方のフォーリズム
 
 ### 音乐
 

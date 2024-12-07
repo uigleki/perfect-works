@@ -7,39 +7,38 @@
 ### 动画
 
 1. 化物語
-1. 偽物語
-1. Hi Score Girl
-1. 少女終末旅行
-1. ふしぎの海のナディア
+2. 偽物語
+3. Hi Score Girl
+4. 少女終末旅行
+5. ふしぎの海のナディア
 
 ### 电影
 
 1. 打ち上げ花火、下から見るか？横から見るか？
    > 谢谢你圆我一场青春的梦
-1. Penguin Highway
-1. Charlie and the Chocolate Factory
-1. Summer Ghost
+2. Penguin Highway
+3. Charlie and the Chocolate Factory
+4. Summer Ghost
 
 ### 漫画
 
 1. 嘘つきみーくんと壊れたまーちゃん とっておきの嘘
    > 深藏的谎言
-1. ヒトクイ
-1. Liar Game
+2. ヒトクイ
+3. Liar Game
 
 ### 游戏
 
 1. To the Moon
    > 一个关于执念与爱的故事
-1. What Remains of Edith Finch
+2. What Remains of Edith Finch
    > 最佳叙事，实至名归
-1. Finding Paradise
-1. Steins;Gate
-1. 7 年後で待ってる
-1. Astlibra Revision
-1. 带我去地下城吧
-1. Deemo
-1. osu!
+3. Finding Paradise
+4. Steins;Gate
+5. 7 年後で待ってる
+6. Astlibra Revision
+7. 带我去地下城吧
+8. Flowers -Le volume sur ete-
 
 ### 音乐
 
