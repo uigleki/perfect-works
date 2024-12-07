@@ -37,7 +37,7 @@
 4. Steins;Gate
 5. 7 年後で待ってる
 6. Astlibra Revision
-7. 带我去地下城吧
+7. 带我去地下城吧！！
 8. Flowers -Le volume sur ete-
 
 ### 音乐
